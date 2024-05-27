@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Class_Student\\source\\repos\\KirillApi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E0EE0C8E-AD8A-4F2A-AB82-D22F753E5565}|KirillApi\\KirillApi.csproj|c:\\users\\class_student\\source\\repos\\kirillapi\\kirillapi\\controllers\\valuescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0EE0C8E-AD8A-4F2A-AB82-D22F753E5565}|KirillApi\\KirillApi.csproj|solutionrelative:kirillapi\\controllers\\valuescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0EE0C8E-AD8A-4F2A-AB82-D22F753E5565}|KirillApi\\KirillApi.csproj|c:\\users\\class_student\\source\\repos\\kirillapi\\kirillapi\\sen_mencontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0EE0C8E-AD8A-4F2A-AB82-D22F753E5565}|KirillApi\\KirillApi.csproj|solutionrelative:kirillapi\\sen_mencontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0EE0C8E-AD8A-4F2A-AB82-D22F753E5565}|KirillApi\\KirillApi.csproj|c:\\users\\class_student\\source\\repos\\kirillapi\\kirillapi\\sensorscontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0EE0C8E-AD8A-4F2A-AB82-D22F753E5565}|KirillApi\\KirillApi.csproj|solutionrelative:kirillapi\\sensorscontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0EE0C8E-AD8A-4F2A-AB82-D22F753E5565}|KirillApi\\KirillApi.csproj|c:\\users\\class_student\\source\\repos\\kirillapi\\kirillapi\\models\\sensors_measurements.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0EE0C8E-AD8A-4F2A-AB82-D22F753E5565}|KirillApi\\KirillApi.csproj|solutionrelative:kirillapi\\models\\sensors_measurements.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0EE0C8E-AD8A-4F2A-AB82-D22F753E5565}|KirillApi\\KirillApi.csproj|c:\\users\\class_student\\source\\repos\\kirillapi\\kirillapi\\models\\sensors.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0EE0C8E-AD8A-4F2A-AB82-D22F753E5565}|KirillApi\\KirillApi.csproj|solutionrelative:kirillapi\\models\\sensors.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0EE0C8E-AD8A-4F2A-AB82-D22F753E5565}|KirillApi\\KirillApi.csproj|c:\\users\\class_student\\source\\repos\\kirillapi\\kirillapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0EE0C8E-AD8A-4F2A-AB82-D22F753E5565}|KirillApi\\KirillApi.csproj|solutionrelative:kirillapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Sen_menContext.cs",
+              "DocumentMoniker": "C:\\Users\\Class_Student\\source\\repos\\KirillApi\\KirillApi\\Sen_menContext.cs",
+              "RelativeDocumentMoniker": "KirillApi\\Sen_menContext.cs",
+              "ToolTip": "C:\\Users\\Class_Student\\source\\repos\\KirillApi\\KirillApi\\Sen_menContext.cs",
+              "RelativeToolTip": "KirillApi\\Sen_menContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T10:39:48.173Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SensorsContext.cs",
+              "DocumentMoniker": "C:\\Users\\Class_Student\\source\\repos\\KirillApi\\KirillApi\\SensorsContext.cs",
+              "RelativeDocumentMoniker": "KirillApi\\SensorsContext.cs",
+              "ToolTip": "C:\\Users\\Class_Student\\source\\repos\\KirillApi\\KirillApi\\SensorsContext.cs",
+              "RelativeToolTip": "KirillApi\\SensorsContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T10:15:41.704Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Sensors_measurements.cs",
+              "DocumentMoniker": "C:\\Users\\Class_Student\\source\\repos\\KirillApi\\KirillApi\\Models\\Sensors_measurements.cs",
+              "RelativeDocumentMoniker": "KirillApi\\Models\\Sensors_measurements.cs",
+              "ToolTip": "C:\\Users\\Class_Student\\source\\repos\\KirillApi\\KirillApi\\Models\\Sensors_measurements.cs",
+              "RelativeToolTip": "KirillApi\\Models\\Sensors_measurements.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T07:36:28.941Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Class_Student\\source\\repos\\KirillApi\\KirillApi\\Program.cs",
+              "RelativeDocumentMoniker": "KirillApi\\Program.cs",
+              "ToolTip": "C:\\Users\\Class_Student\\source\\repos\\KirillApi\\KirillApi\\Program.cs",
+              "RelativeToolTip": "KirillApi\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAACRAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T07:20:58.963Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Sensors.cs",
+              "DocumentMoniker": "C:\\Users\\Class_Student\\source\\repos\\KirillApi\\KirillApi\\Models\\Sensors.cs",
+              "RelativeDocumentMoniker": "KirillApi\\Models\\Sensors.cs",
+              "ToolTip": "C:\\Users\\Class_Student\\source\\repos\\KirillApi\\KirillApi\\Models\\Sensors.cs",
+              "RelativeToolTip": "KirillApi\\Models\\Sensors.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T07:19:47.365Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ValuesController.cs",
+              "DocumentMoniker": "C:\\Users\\Class_Student\\source\\repos\\KirillApi\\KirillApi\\Controllers\\ValuesController.cs",
+              "RelativeDocumentMoniker": "KirillApi\\Controllers\\ValuesController.cs",
+              "ToolTip": "C:\\Users\\Class_Student\\source\\repos\\KirillApi\\KirillApi\\Controllers\\ValuesController.cs",
+              "RelativeToolTip": "KirillApi\\Controllers\\ValuesController.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAA1wDoAAABIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T07:18:55.247Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
